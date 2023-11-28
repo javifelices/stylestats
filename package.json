@@ -42,7 +42,7 @@
   ],
   "dependencies": {
     "glob": "^4.0.5",
-    "less": "^1.7.4",
+    "less": "^2.7.0",
     "chalk": "^0.5.1",
     "stylus": "^0.48.1",
     "numeral": "^1.5.3",
