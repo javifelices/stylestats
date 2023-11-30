@@ -41,7 +41,7 @@
     "assets"
   ],
   "dependencies": {
-    "glob": "^4.0.5",
+    "glob": "^9.0.0",
     "less": "^1.7.4",
     "chalk": "^0.5.1",
     "stylus": "^0.48.1",
