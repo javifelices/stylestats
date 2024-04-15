@@ -48,7 +48,7 @@
     "numeral": "^1.5.3",
     "promise": "^6.0.0",
     "request": "^2.40.0",
-    "cheerio": "^0.17.0",
+    "cheerio": "^0.20.0",
     "json2csv": "^2.2.1",
     "cli-table": "^0.3.0",
     "commander": "^2.3.0",
